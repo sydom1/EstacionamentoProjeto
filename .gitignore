@@ -1,0 +1,20 @@
+# =======================
+# Backend - .NET
+# =======================
+EstacionamentoAPI/bin/
+EstacionamentoAPI/obj/
+EstacionamentoAPI/*.user
+EstacionamentoAPI/*.suo
+EstacionamentoAPI/*.log
+EstacionamentoAPI/.vs/
+EstacionamentoAPI/*.db
+EstacionamentoAPI/*.DS_Store
+
+# =======================
+# Frontend - React / Node.js
+# =======================
+estacionamento-Frontend/node_modules/
+estacionamento-Frontend/build/
+estacionamento-Frontend/.env
+estacionamento-Frontend/*.log
+estacionamento-Frontend/.DS_Store
